@@ -1,4 +1,4 @@
-
+## The link to the app is these https://ljr7d85shgdyeaupa3dzin.streamlit.app/
 # student-life-segmentation-2-2-
 # 🎓 Student Lifestyle Clustering
 
